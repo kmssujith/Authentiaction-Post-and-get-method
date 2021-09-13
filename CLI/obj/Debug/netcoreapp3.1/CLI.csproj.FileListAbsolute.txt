@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CLI\bin\Debug\netcoreapp3.1\CLI.exe
+C:\Users\admin\source\repos\CLI\bin\Debug\netcoreapp3.1\CLI.deps.json
+C:\Users\admin\source\repos\CLI\bin\Debug\netcoreapp3.1\CLI.runtimeconfig.json
+C:\Users\admin\source\repos\CLI\bin\Debug\netcoreapp3.1\CLI.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CLI\bin\Debug\netcoreapp3.1\CLI.dll
+C:\Users\admin\source\repos\CLI\bin\Debug\netcoreapp3.1\CLI.pdb
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.AssemblyInfo.cs
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.dll
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.pdb
+C:\Users\admin\source\repos\CLI\obj\Debug\netcoreapp3.1\CLI.genruntimeconfig.cache
